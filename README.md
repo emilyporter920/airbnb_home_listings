@@ -1,9 +1,9 @@
 # Airbnb Home Listings
-Tableau visualization of Airbnb home listings using data from Kaggle. Analyzed to provide insights for a client looking to buy an Airbnb.
+* Tableau visualization of Airbnb home listings using data from Kaggle. Analyzed to provide insights for a client looking to buy an Airbnb.
 
 # Data
 
-* Data was accessed through <a href="https://www.kaggle.com/datasets/alexanderfreberg/airbnb-listings-2016-dataset" target="_blank">here</a>
+* Access source data <a href="https://www.kaggle.com/datasets/alexanderfreberg/airbnb-listings-2016-dataset" target="_blank">here</a>.
 
 # Analysis
 
